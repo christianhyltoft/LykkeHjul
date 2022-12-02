@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">s215816 Lykkehjulet</string>
+    <string name="SpinWheel">Spin The Wheel</string>
+    <string name="game_category">Category</string>
+    <string name="guess_the_word">String</string>
+    <string name="category">String</string>
+    <string name="word">String</string>
+    <string name="money">int</string>
+    <string name="guess_word">String</string>
+    <string name="show_result">String</string>
+    <string name="new_game">String</string>
+</resources>
